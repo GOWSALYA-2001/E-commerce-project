@@ -1,0 +1,65 @@
+/* App.css */
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333; /* Default text color */
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.image-container {
+    height: 250px;
+    overflow: hidden;
+}
+
+.card-img-top {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.card-title {
+    font-size: 20px;
+    margin-bottom: 10px;
+    color:darkgoldenrod; /* Title color */
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.card-text {
+    font-size: 18px;
+    color:rgb(5, 5, 89); /* Text color */
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btn-primary {
+    background-color:rgb(236, 139, 13); /* Button background color */
+    color: #fff; /* Button text color */
+    border: none;
+    padding: 10px 20px;
+    border-radius:5px;
+    cursor: pointer;
+}
+
+.btn-primary:hover {
+    background-color:rebeccapurple; /* Hover background color */
+}
+
+
+
+

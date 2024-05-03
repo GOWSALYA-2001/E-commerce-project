@@ -1,0 +1,11 @@
+.text-slanted {
+    font-family: 'Kaushan Script', cursive;
+    color: #ff5722; /* Orange color */
+  }
+  
+  .hero h1 {
+    font-size: 5.25rem;
+    letter-spacing: 5px;
+    color: #333; /* Dark gray color */
+  }
+  
